@@ -9,10 +9,12 @@ WHERE Salary < (SELECT MAX(Salary) FROM Employee);
 
 
 -- -----------------------------------------------------
--- Method 2 (Postgres with analytics function)
+-- Method 2 (with analytics function - works for both Postgres and Oracle)
 -- -----------------------------------------------------
-SELECT salary AS SecondHighestSalary
-FROM 
-    (SELECT salary, ROW_NUMBER() OVER(ORDER BY Salary DESC) AS rank
-     FROM fb.Employee) AS t
-WHERE rank=2;
+SELECT MAX(Salary) AS SecondHighestSalary
+FROM (
+    SELECT DISTINCT Salary, DENSE_RANK() OVER (ORDER BY Salary DESC) AS rank
+    FROM Employee
+    ) t
+WHERE rank = 2;
+
