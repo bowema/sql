@@ -7,7 +7,7 @@
 |185| [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/)|[Oracle, Postgres](185.sql)|Hard|
 |578| [Get Highest Answer Rate Question](https://leetcode.com/articles/get-highest-answer-rate-question/)|[MySQL](578.sql)|Median|
 |597|[Friend Requests I: Overall Acceptance Rate](https://leetcode.com/articles/friend-requests-i-overall-acceptance-rate/)|[MySQL](597.friend_request_fb.sql)|Easy|
-|602|[Friend Requests II: Who Has the Most Friends](https://leetcode.com/articles/friend-requests-ii-who-has-most-friend/)|[MySQL](603.friend_request_2.sql)|Median|
+|602|[Friend Requests II: Who Has the Most Friends](https://leetcode.com/articles/friend-requests-ii-who-has-most-friend/)|[MySQL](602.friend_request_2.sql)|Median|
 
 # Facebook
 | # | Problem | Solution| Concept|
