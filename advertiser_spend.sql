@@ -11,3 +11,7 @@ FROM
     (SELECT *
      FROM fb.advertiser
      LEFT JOIN fb.ad USING(ad_id)) InnerQ;
+
+
+-- follow up question: in which case ROI is not the best metric?
+-- Answer: when advertiser cares less about revenue but more about CTR (eg. marketing campaign), ROI is not the best metric.
