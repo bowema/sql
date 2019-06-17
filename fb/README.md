@@ -6,5 +6,3 @@ Given a table that each day shows who was active in the  system and a table that
 * user revived (yesterday no, today yes) 
 * user new (yesterday null, today yes) 
 Note: you'll want to spot and account for the undefined state.
-
-# Facebook
