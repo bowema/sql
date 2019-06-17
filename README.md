@@ -9,3 +9,6 @@
 
 
 # Facebook
+| # | Problem | Solution| Concept|
+|---|---|---|----|
+|1| User Status|[MySQL](fb/user_status.sql)||
