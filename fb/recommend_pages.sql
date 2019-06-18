@@ -1,3 +1,6 @@
+-- first join two tables, then return user_id and pages liked by their friends but not them selves
+-- do this by filtering out pages liked by users themselves using NOT IN
+
 SELECT DISTINCT user_id, page_id
 FROM 
     (SELECT f.user_id, friend_id, page_id FROM fb.friends f
