@@ -14,3 +14,4 @@
 |---|---|---|----|
 |1| [User Status](fb/user_status.md)|[MySQL](fb/user_status.sql)||
 |2| [Recommend pages your friends liked](fb/recommend_pages.md)|[MySQL](fb/recommend_pages.sql)||
+|3| [Advertiser spend and ROI metrics](fb/advertiser_spend.md)|[MySQL](fb/advertiser_spend.sql)||
