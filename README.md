@@ -13,3 +13,4 @@
 | # | Problem | Solution| Concept|
 |---|---|---|----|
 |1| [User Status](fb/user_status.md)|[MySQL](fb/user_status.sql)||
+|2| [Recommend pages your friends liked](fb/recommend_pages.md)|[MySQL](fb/recommend_pages.sql)||
