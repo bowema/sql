@@ -3,7 +3,7 @@
 Table name: content_actions
 
 {user_id | content_id | content_type ('post', 'photo', 'comment') | target_id}  
-Note:  
+Note:
 - story: post or photo
 - target_id: when a user commented on a story, the target_id indicates which story was commented
 

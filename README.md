@@ -17,3 +17,4 @@
 |3| [Advertiser spend and ROI metrics](fb/advertiser_spend.md)|[MySQL](fb/advertiser_spend.sql)||
 |4| [Friends' Messages](fb/messages.md)|[Postgres](fb/messages.sql)||
 |5| [Content Actions (Comments per Story)](fb/comments_per_story.md)|[MySQL, Postgres](fb/comments_per_story.sql)||
+|6| [Click Through Rate](fb/ctr.md)|[MySQL, Postgres](fb/ctr.sql)||
