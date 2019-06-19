@@ -1,4 +1,4 @@
-# Messages 
+# Friends' Messages 
 Table:  
 date | user_A | user_B | number_messages
 
