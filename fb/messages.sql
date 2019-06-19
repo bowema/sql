@@ -9,7 +9,8 @@ FROM
      SELECT user_B, SUM(number_messages) AS num_msg
      FROM fb.messages
      GROUP BY user_B, user_A) AS InnerQ
-GROUP BY num_msg;
+GROUP BY 1
+ORDER BY 1;
 
 
 -- (3) Write a query find the top partner for each user (most messages)
