@@ -16,3 +16,4 @@
 |2| [Recommend pages your friends liked](fb/recommend_pages.md)|[MySQL](fb/recommend_pages.sql)||
 |3| [Advertiser spend and ROI metrics](fb/advertiser_spend.md)|[MySQL](fb/advertiser_spend.sql)||
 |4| [Friends' Messages](fb/messages.md)|[Postgres](fb/messages.sql)||
+|5| [Comments per Story](fb/comments_per_story.md)|[MySQL, Postgres](fb/comments_per_story.sql)||
