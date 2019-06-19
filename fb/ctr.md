@@ -1,5 +1,5 @@
 # CTR 
-When a user is playing with an app, the app might pop up a window for user to add credit card information (event 'imp'). If the user clicked 'yes', then a click event is created.  
+When a user is playing with an app, the app might pop up a window for user to add credit card information (event 'imp'). If the user clicks 'yes', then a click event is created.  
 You have a table with { time | user_id | app_id | event }. `event` is either 'click' or 'impression'. 
 
 1) How would you access the quality of app? (Calculate the click through rate).  
