@@ -1,4 +1,4 @@
--- Comments per story
+-- Content Actions - calculate number of comments per story
 -- Don't overcomplicate this problem. Use a left join to add comment info to each story, then filter out comments, 
 -- lastly group by unique story (assume content_id is unique per story) and count number of target_id's which is number of comments.
 
