@@ -1,0 +1,4 @@
+user_id,content_id,content_type,target_id
+1,5,post,
+17,6,photo,
+16,20,comment,5
