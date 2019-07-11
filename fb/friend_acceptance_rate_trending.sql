@@ -18,3 +18,15 @@ FROM
        sent.target_id = accepted.actor_id
 GROUP BY sent.datetime
 ;
+
+-- simplified version:
+SELECT a.datetime, 
+       SUM(CASE WHEN b.action='accepted' THEN 1 ELSE 0 END)/COUNT(*)::FLOAT AS daily_accept_rate
+FROM fb.friend a
+  LEFT JOIN fb.friend b    
+  ON a.datetime = b.datetime AND 
+     a.actor_id = b.target_id AND
+     a.target_id = b.actor_id
+  WHERE a.action = 'sent'
+GROUP BY 1
+;
