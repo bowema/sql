@@ -10,7 +10,7 @@
 |602|[Friend Requests II: Who Has the Most Friends](https://leetcode.com/articles/friend-requests-ii-who-has-most-friend/)|[MySQL](602.friend_request_2.sql)|Median|
 
 # Facebook
-| # | Problem | Solution| Concept|
+| # | Problem | Solution| Concept/Comment|
 |---|---|---|----|
 |1| [User Status](fb/user_status.md)|[MySQL](fb/user_status.sql)||
 |2| [Recommend pages your friends liked](fb/recommend_pages.md)|[MySQL](fb/recommend_pages.sql)||
@@ -19,4 +19,5 @@
 |5| [Content Actions (Comments per Story)](fb/comments_per_story.md)|[MySQL, PostgreSQL](fb/comments_per_story.sql)|left join|
 |6| [Click Through Rate](fb/ctr.md)|[MySQL, Postgres](fb/ctr.sql)|group by, sum|
 |7| [Friend Acceptance Rate Trending](fb/friend_acceptance_rate_trending.md)|[PostgreSQL](fb/friend_acceptance_rate_trending.sql)|subquery(left join) group by|
-|8| [carrier](fb/carrier.md)|[MySQL](fb/carrier.sql)| case study|
+|8| [Carrier](fb/carrier.md)|[MySQL](fb/carrier.sql)| case study|
+|9| [Comment on Post](fb/comment_on_post.md)|[MySQl](fb/comment_on_post.sql)| similar to #5 |
