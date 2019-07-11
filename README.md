@@ -18,3 +18,4 @@
 |4| [Friends' Messages](fb/messages.md)|[Postgres](fb/messages.sql)||
 |5| [Content Actions (Comments per Story)](fb/comments_per_story.md)|[MySQL, Postgres](fb/comments_per_story.sql)|left join|
 |6| [Click Through Rate](fb/ctr.md)|[MySQL, Postgres](fb/ctr.sql)|group by, sum|
+|7| [Friend Acceptance Rate Trending](fb/friend_acceptance_rate_trending.mc)|[Postgres](fb/friend_acceptance_rate_trending.sql)||

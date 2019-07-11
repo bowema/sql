@@ -1,0 +1,11 @@
+datetime,action,actor_id,target_id
+6/3/16,sent,1,2
+6/3/16,accepted,2,1
+6/3/16,sent,1,3
+6/3/16,sent,1,4
+6/3/16,accepted,3,1
+6/8/16,sent,2,3
+6/9/16,sent,3,4
+6/10/16,accepted,3,2
+6/9/16,accepted,4,3
+7/15/16,sent,5,4
