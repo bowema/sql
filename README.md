@@ -20,4 +20,4 @@
 |6| [Click Through Rate](fb/ctr.md)|[MySQL, Postgres](fb/ctr.sql)|group by, sum|
 |7| [Friend Acceptance Rate Trending](fb/friend_acceptance_rate_trending.md)|[PostgreSQL](fb/friend_acceptance_rate_trending.sql)|subquery(left join) group by|
 |8| [Carrier](fb/carrier.md)|[MySQL](fb/carrier.sql)| case study|
-|9| [Comment on Post](fb/comment_on_post.md)|[MySQl](fb/comment_on_post.sql)| similar to #5 |
+|9| [Comments on Post](fb/comments_on_post.md)|[MySQl](fb/comments_on_post.sql)| similar to #5 |

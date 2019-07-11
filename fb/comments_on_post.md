@@ -1,4 +1,4 @@
-# Comments per story
+# Comments on post
 
 |user_id | current_link_id | previous_link_id | data_type|
 |---|---|---|---|
