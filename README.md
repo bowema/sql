@@ -19,4 +19,4 @@
 |5| [Content Actions (Comments per Story)](fb/comments_per_story.md)|[MySQL, PostgreSQL](fb/comments_per_story.sql)|left join|
 |6| [Click Through Rate](fb/ctr.md)|[MySQL, Postgres](fb/ctr.sql)|group by, sum|
 |7| [Friend Acceptance Rate Trending](fb/friend_acceptance_rate_trending.md)|[PostgreSQL](fb/friend_acceptance_rate_trending.sql)||
-|8| [carrier](fb/carrier.md)|[]()||
+|8| [carrier](fb/carrier.md)|[MySQL](fb/carrier.sql)| case study|
