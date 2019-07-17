@@ -21,3 +21,9 @@
 |7| [Friend Acceptance Rate Trending](fb/friend_acceptance_rate_trending.md)|[PostgreSQL](fb/friend_acceptance_rate_trending.sql)|subquery(left join) group by|
 |8| [Carrier](fb/carrier.md)|[MySQL](fb/carrier.sql)| case study|
 |9| [Comments on Post](fb/comments_on_post.md)|[MySQL](fb/comments_on_post.sql)| similar to #5 |
+
+
+# Other
+| # | Problem | Solution| Concept/Comment|
+|---|---|---|----|
+| 1 | [customers not making purchase](other/thirdlove.md)|[MySQL](other/thirdlove.sql) | |
