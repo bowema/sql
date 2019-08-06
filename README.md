@@ -27,3 +27,9 @@
 | # | Problem | Solution| Concept/Comment|
 |---|---|---|----|
 | 1 | [customers not making purchase](other/thirdlove.md)|[MySQL](other/thirdlove.sql) | |
+
+
+# G
+| # | Problem | Solution| Concept/Comment|
+|---|---|---|----|
+| 1 | [Video](g/video.md)|[Postgres](g/video.sql)| sum, find max|
