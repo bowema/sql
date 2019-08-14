@@ -8,7 +8,10 @@
 |578| [Get Highest Answer Rate Question](https://leetcode.com/articles/get-highest-answer-rate-question/)|[MySQL](578.sql)|Median|
 |597|[Friend Requests I: Overall Acceptance Rate](https://leetcode.com/articles/friend-requests-i-overall-acceptance-rate/)|[MySQL](597.friend_request_fb.sql)|Easy|
 |602|[Friend Requests II: Who Has the Most Friends](https://leetcode.com/articles/friend-requests-ii-who-has-most-friend/)|[MySQL](602.friend_request_2.sql)|Median|
-|511| [Game Play Analysis I] | [MySQL](leetcode/511.sql) |Easy|
+|511| [Game Play Analysis I](https://blog.csdn.net/weixin_43329319/article/details/95510758) | [MySQL](leetcode/511.sql) |Easy|
+|512| [Game Play Analysis II](https://blog.csdn.net/weixin_43329319/article/details/95512447) | [MySQL](leetcode/512.sql)|Easy|
+|534| [Game Play Analysis III](https://blog.csdn.net/weixin_43329319/article/details/95516430) | [MySQL](leetcode/534.sql) |Medium|
+|550| [Game Play Analysis IV](https://zqt0.gitbook.io/leetcode/sql/550.-game-play-analysis-iv-zhong-deng) |[PostgreSQL](leetcode/550.sql) |Medium|
 
 # Facebook
 | # | Problem | Solution| Concept/Comment|
