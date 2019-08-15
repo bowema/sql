@@ -14,7 +14,7 @@
 |550| [Game Play Analysis IV](https://zqt0.gitbook.io/leetcode/sql/550.-game-play-analysis-iv-zhong-deng) |[PostgreSQL](leetcode/550.sql) |Medium|
 |569| [Median Employee Salary](https://leetcode.com/articles/median-employee-salary/?page=3)|[MySQL](leetcode/569.sql)|Hard|
 |570| [Managers with at Least 5 Direct Reports](https://leetcode.com/articles/managers-with-at-least-5-direct-reports/)| [MySQL](leetcode/570.sql) |Medium|
-
+|574| [Winning Candidate](https://leetcode.com/articles/winning-candidate/)|[MySQL](leetcode/574.sql)|Medium|
 
 
 # Facebook
