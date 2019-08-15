@@ -16,6 +16,7 @@
 |570| [Managers with at Least 5 Direct Reports](https://leetcode.com/articles/managers-with-at-least-5-direct-reports/)| [MySQL](leetcode/570.sql) |Medium|
 |574| [Winning Candidate](https://leetcode.com/articles/winning-candidate/)|[MySQL](leetcode/574.sql)|Medium|
 |577| [Employee Bonus](https://leetcode.com/articles/employee-bonus/) | [MySQL](leetcode/577.sql) |Easy|
+|578| [Get Highest Answer Rate Question](https://leetcode.com/articles/get-highest-answer-rate-question/)|[MySQL](leetcode/578.sql)|Medium|
 
 
 # Facebook
