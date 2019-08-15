@@ -12,7 +12,9 @@
 |512| [Game Play Analysis II](https://blog.csdn.net/weixin_43329319/article/details/95512447) | [MySQL](leetcode/512.sql)|Easy|
 |534| [Game Play Analysis III](https://blog.csdn.net/weixin_43329319/article/details/95516430) | [MySQL](leetcode/534.sql) |Medium|
 |550| [Game Play Analysis IV](https://zqt0.gitbook.io/leetcode/sql/550.-game-play-analysis-iv-zhong-deng) |[PostgreSQL](leetcode/550.sql) |Medium|
-|570| [Managers with at Least 5 Direct Reports](https://zqt0.gitbook.io/leetcode/sql/570.medium-zhi-shao-you-5-ming-zhi-jie-xia-shu-de-jing-li)| [MySQL](leetcode/570.sql) |Medium|
+|569| [Median Employee Salary](https://leetcode.com/articles/median-employee-salary/?page=3)|[MySQL](leetcode/569.sql)|Hard|
+|570| [Managers with at Least 5 Direct Reports](https://leetcode.com/articles/managers-with-at-least-5-direct-reports/)| [MySQL](leetcode/570.sql) |Medium|
+
 
 
 # Facebook
