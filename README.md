@@ -14,6 +14,7 @@
 |550| [Game Play Analysis IV](https://zqt0.gitbook.io/leetcode/sql/550.-game-play-analysis-iv-zhong-deng) |[PostgreSQL](leetcode/550.sql) |Medium|
 |570| [Managers with at Least 5 Direct Reports](https://zqt0.gitbook.io/leetcode/sql/570.medium-zhi-shao-you-5-ming-zhi-jie-xia-shu-de-jing-li)| [MySQL](leetcode/570.sql) |Medium|
 
+
 # Facebook
 | # | Problem | Solution| Concept/Comment|
 |---|---|---|----|
