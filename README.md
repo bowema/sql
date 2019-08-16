@@ -19,6 +19,7 @@
 |578| [Get Highest Answer Rate Question](https://leetcode.com/articles/get-highest-answer-rate-question/)|[MySQL](leetcode/578.sql)|Medium|
 |580| [Count Student Number in Departments](https://leetcode.com/articles/count-student-number-in-departments/)|[MySQL](leetcode/580.sql)|Medium|
 |584| [Find Customer Referee](https://leetcode.com/articles/find-customer-referee/)|[MySQL](leetcode/584.sql)|Easy|
+|585| [Investments in 2016](https://leetcode.com/articles/investments-in-2016/) |[MySQL](https://leetcode.com/articles/investments-in-2016/)|Medium|
 
 
 # Facebook
